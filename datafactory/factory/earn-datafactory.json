@@ -1,0 +1,9 @@
+{
+	"name": "earn-datafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b4983bc-43cb-4907-b346-c79dd14def5c",
+		"tenantId": "b6d1e20f-d22c-41c5-9a98-98af52ba9b14"
+	}
+}
