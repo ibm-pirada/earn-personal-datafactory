@@ -1,0 +1,9 @@
+{
+	"name": "earnpersonal",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c48ced05-145c-46d6-b9d0-df2c887f91ce",
+		"tenantId": "b6d1e20f-d22c-41c5-9a98-98af52ba9b14"
+	}
+}
